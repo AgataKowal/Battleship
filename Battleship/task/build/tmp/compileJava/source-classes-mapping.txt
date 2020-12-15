@@ -1,0 +1,32 @@
+battleship/game/Game.java
+ battleship.game.Game
+battleship/Main.java
+ battleship.Main
+battleship/ships/Destroyer.java
+ battleship.ships.Destroyer
+battleship/ships/Cruiser.java
+ battleship.ships.Cruiser
+battleship/validators/LengthValidator.java
+ battleship.validators.LengthValidator
+battleship/ships/AircraftCarrier.java
+ battleship.ships.AircraftCarrier
+battleship/board/BoardPrinter.java
+ battleship.board.BoardPrinter
+battleship/board/Coordinates.java
+ battleship.board.Coordinates
+battleship/ships/Battleship.java
+ battleship.ships.Battleship
+battleship/ships/Ship.java
+ battleship.ships.Ship
+battleship/validators/ObliqueCoordinatesValidator.java
+ battleship.validators.ObliqueCoordinatesValidator
+battleship/validators/AnotherObjectValidator.java
+ battleship.validators.AnotherObjectValidator
+battleship/board/CoordinatesMapper.java
+ battleship.board.CoordinatesMapper
+battleship/validators/CoordinatesValidator.java
+ battleship.validators.CoordinatesValidator
+battleship/board/Board.java
+ battleship.board.Board
+battleship/ships/Submarine.java
+ battleship.ships.Submarine
